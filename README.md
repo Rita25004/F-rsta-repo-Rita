@@ -16,15 +16,15 @@ Så här skriver du en rubrik:
 *Kursiv text* `*Kursiv text*`
 ### 2️⃣ Punktlista
 
-- Punkt 1
-- Punkt 2
-  - Undernivå
+- Punkt 1 ` - Punkt 1 `
+- Punkt 2 ` - Punkt 2 `
+  - Undernivå `  - Undernivå `
   
 ### 3️⃣ Numrerad lista
 
-1. Första punkten
-2. Andra punkten
-3. Tredje punkten
+1. Första punkten `1. Första punkten`
+2. Andra punkten `2. andra punkten`
+3. Tredje punkten `3. Tredje punkten`
 
 ### 4️⃣ Tabell
 
@@ -32,6 +32,16 @@ Så här skriver du en rubrik:
 |------|------|
 | Maria  | Webbutveckling |
 | Sara | Interaktionsdesign |
+
+```
+ | Namn | Kurs |
+
+|------|------|
+
+| Maria  | Webbutveckling |
+
+| Sara | Interaktionsdesign |
+```
 
 ### 5️⃣ Bild
 
