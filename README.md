@@ -34,12 +34,9 @@ Så här skriver du en rubrik:
 | Sara | Interaktionsdesign |
 
 ```
- | Namn | Kurs |
-
+| Namn | Kurs |
 |------|------|
-
 | Maria  | Webbutveckling |
-
 | Sara | Interaktionsdesign |
 ```
 
