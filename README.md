@@ -8,17 +8,18 @@ Det används ofta i README-filer på GitHub, i dokumentation och i anteckningar.
 ### 1️⃣ Rubriker (Headings)
 Så här skriver du en rubrik:
 
-# Stor rubrik
-## Mellanstor rubrik
-### Mindre rubrik
-**Fet text**
+# Stor rubrik `# stor rubrik`
+## Mellanstor rubrik `## Mellanstor rubrik`
+### Mindre rubrik `### mindre rubrik`
+**Fet text** `**Fet text**`
 
-*Kursiv text*
+*Kursiv text* `*Kursiv text*`
 ### 2️⃣ Punktlista
 
 - Punkt 1
 - Punkt 2
   - Undernivå
+  
 ### 3️⃣ Numrerad lista
 
 1. Första punkten
