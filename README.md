@@ -19,3 +19,15 @@ Så här skriver du en rubrik:
 - Punkt 1
 - Punkt 2
   - Undernivå
+### 3️⃣ Numrerad lista
+
+1. Första punkten
+2. Andra punkten
+3. Tredje punkten
+
+### 4️⃣ Tabell
+
+| Namn | Kurs |
+|------|------|
+| Maria  | Webbutveckling |
+| Sara | Interaktionsdesign |
