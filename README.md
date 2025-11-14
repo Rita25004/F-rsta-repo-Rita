@@ -31,3 +31,7 @@ Så här skriver du en rubrik:
 |------|------|
 | Maria  | Webbutveckling |
 | Sara | Interaktionsdesign |
+
+### 5️⃣ Bild
+
+<img width="727" height="743" alt="markdown-syntax-cheatsheet" src="https://github.com/user-attachments/assets/c797d270-d616-4a01-b913-f9906a1804b7" />
